@@ -1,0 +1,40 @@
+html{
+    font-size: 10px; 
+    font-family: 'Roboto', sans-serif;
+    background-color: #00539F;
+    background-image: url("../images/test.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #2828FF;
+    text-shadow: 3px 3px 1px black;
+  }
+  
+p,li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body{
+    width: 20%;
+    margin: 0 auto;
+    background-color: #97CBFF;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+a{
+    font-size: 50px
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+  }
